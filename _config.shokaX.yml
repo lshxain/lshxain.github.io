@@ -1,8 +1,8 @@
-alternate: 个人博客
+alternate: 
 
 homeConfig:
   gradient: false
-  fixedCover: "/assets/bg.png"
+  fixedCover: "/assets/bg2.jpg"
   coverConfig:
     enableCover: true
     enablePreload: true
@@ -51,7 +51,7 @@ social:
 
 sidebar:
   position: left
-  avatar: avatar.jpg
+  avatar: tx4.jpg
 
 widgets:
   random_posts: true
