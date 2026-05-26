@@ -1,24 +1,17 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title></title>
-        <link>https://lshxain.github.io</link>
-        <description>我们总是透过后视镜，倒着驶向未来。</description>
-        <language>zh-CN</language>
-        <pubDate>Tue, 26 May 2026 15:47:08 +0800</pubDate>
-        <lastBuildDate>Tue, 26 May 2026 15:47:08 +0800</lastBuildDate>
-        <category>读书</category>
-        <category>随笔</category>
-        <category>心理学</category>
-        <item>
-            <guid isPermalink="true">https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/</guid>
-            <title>读完《被讨厌的勇气》，我决定不再讨好任何人</title>
-            <link>https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
-            <category>读书</category>
-            <category>随笔</category>
-            <category>心理学</category>
-            <pubDate>Tue, 26 May 2026 15:47:08 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;花了一周断断续续读完岸见一郎和古贺史健的《被讨厌的勇气》，合上书的那一刻，心里像是被什么东西撞了一下。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lshxain.github.io</id>
+    <title> • Posts by &#34;读书&#34; tag</title>
+    <link href="https://lshxain.github.io" />
+    <updated>2026-05-26T07:47:08.000Z</updated>
+    <category term="读书" />
+    <category term="随笔" />
+    <category term="心理学" />
+    <entry>
+        <id>https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/</id>
+        <title>读完《被讨厌的勇气》，我决定不再讨好任何人</title>
+        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+        <content type="html">&lt;p&gt;花了一周断断续续读完岸见一郎和古贺史健的《被讨厌的勇气》，合上书的那一刻，心里像是被什么东西撞了一下。&lt;/p&gt;
 &lt;h2 id=&#34;过去的我活在别人的期待里&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去的我活在别人的期待里&#34;&gt;#&lt;/a&gt; 过去的我，活在别人的期待里&lt;/h2&gt;
 &lt;p&gt;说起来有点不好意思，我是一个不太会说&amp;quot;不&amp;quot;的人。朋友约吃饭，明明累得只想躺平，嘴上却已经答应了。同事请帮忙，手头压着三件事没说，开口就是&amp;quot;没问题&amp;quot;。然后一个人在家里内耗：为什么刚才不直接拒绝？&lt;/p&gt;
 &lt;p&gt;弗洛伊德说，这是因为过去的经历塑造了现在的我。阿德勒说，不，是你自己选择了&amp;quot;不拒绝&amp;quot;，因为拒绝会让你害怕被讨厌。&lt;/p&gt;
@@ -40,7 +33,10 @@
 &lt;p&gt;《被讨厌的勇气》不是一本读起来很舒服的书。书里的那个&amp;quot;青年&amp;quot;顶撞的话，很多时候就是我脑子里想说的。但阿德勒一一驳回来的时候，你会发现很多你以为的&amp;quot;无奈&amp;quot;其实都是借口。&lt;/p&gt;
 &lt;p&gt;读完没有脱胎换骨，但至少开始留意自己什么时候又在&amp;quot;讨好&amp;quot;了。能注意到，就是改变的开始。&lt;/p&gt;
 &lt;p&gt;这本书以后应该还会翻翻。有些道理需要过一阵子重新读一遍，因为每一遍的感受都不一样。&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="读书" />
+        <category term="随笔" />
+        <category term="心理学" />
+        <updated>2026-05-26T07:47:08.000Z</updated>
+    </entry>
+</feed>
