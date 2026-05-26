@@ -4,8 +4,8 @@ homeConfig:
   gradient: false
   fixedCover: ""
   coverConfig:
-    enableCover: false
-    enablePreload: false
+    enableCover: true
+    enablePreload: true
     enableNextGradientCover: false
 
 modules:
