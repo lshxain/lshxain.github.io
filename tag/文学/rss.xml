@@ -1,19 +1,26 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lshxain.github.io</id>
-    <title></title>
-    <link href="https://lshxain.github.io" />
-    <updated>2026-05-26T07:56:00.000Z</updated>
-    <category term="读书" />
-    <category term="随笔" />
-    <category term="心理学" />
-    <category term="历史" />
-    <category term="文学" />
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</id>
-        <title>长大后再看《西游记》，发现看的不是同一本书</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
-        <content type="html">&lt;p&gt;小时候看西游记，注意力全在孙悟空身上。七十二变、大闹天宫、三打白骨精，齐天大圣天下第一。长大以后重新翻了一遍原著，发现很多事跟小时候的印象完全不同。&lt;/p&gt;
+<rss version="2.0">
+    <channel>
+        <title> • Posts by &#34;文学&#34; tag</title>
+        <link>https://lshxain.github.io</link>
+        <description>我们总是透过后视镜，倒着驶向未来。</description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 26 May 2026 15:56:00 +0800</pubDate>
+        <lastBuildDate>Tue, 26 May 2026 15:56:00 +0800</lastBuildDate>
+        <category>读书</category>
+        <category>随笔</category>
+        <category>心理学</category>
+        <category>历史</category>
+        <category>文学</category>
+        <item>
+            <guid isPermalink="true">https://lshxain.github.io/2026/05/26/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</guid>
+            <title>长大后再看《西游记》，发现看的不是同一本书</title>
+            <link>https://lshxain.github.io/2026/05/26/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</link>
+            <category>读书</category>
+            <category>随笔</category>
+            <category>文学</category>
+            <pubDate>Tue, 26 May 2026 15:56:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;小时候看西游记，注意力全在孙悟空身上。七十二变、大闹天宫、三打白骨精，齐天大圣天下第一。长大以后重新翻了一遍原著，发现很多事跟小时候的印象完全不同。&lt;/p&gt;
 &lt;h2 id=&#34;孙悟空从齐天大圣到斗战胜佛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#孙悟空从齐天大圣到斗战胜佛&#34;&gt;#&lt;/a&gt; 孙悟空：从&amp;quot;齐天大圣&amp;quot;到&amp;quot;斗战胜佛&amp;quot;&lt;/h2&gt;
 &lt;p&gt;童年滤镜里的孙悟空是自由和力量的象征。他一直是我心里的英雄——天不怕地不怕，如来来了也敢撒尿。&lt;/p&gt;
 &lt;p&gt;但原著的孙悟空不完全是那样。&lt;/p&gt;
@@ -32,17 +39,17 @@
 &lt;p&gt;小时候觉得取到真经就是最大的胜利，长大才知道——取经路上发生的每一件事，比那几卷经书重要得多。&lt;/p&gt;
 &lt;p&gt;九九八十一难不是惩罚，是课程。每一难都在教这几个&amp;quot;问题员工&amp;quot;怎么一起做事、怎么信任别人、怎么放下自己的执念。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;真正的&amp;quot;经&amp;quot;，是走完这条路的人自己变成的样子。&lt;/strong&gt;&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="文学" />
-        <updated>2026-05-26T07:56:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E6%B0%B4%E6%B5%92%E4%BC%A0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</id>
-        <title>《水浒传》最让我不舒服的地方</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E6%B0%B4%E6%B5%92%E4%BC%A0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
-        <content type="html">&lt;p&gt;四大名著里，《水浒传》是最让我难受的一本。不是因为写得不好——写得太好了，以至于你没办法心安理得地接受那些&amp;quot;好汉&amp;quot;做的事。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://lshxain.github.io/2026/05/26/%E6%B0%B4%E6%B5%92%E4%BC%A0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</guid>
+            <title>《水浒传》最让我不舒服的地方</title>
+            <link>https://lshxain.github.io/2026/05/26/%E6%B0%B4%E6%B5%92%E4%BC%A0-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</link>
+            <category>读书</category>
+            <category>随笔</category>
+            <category>文学</category>
+            <pubDate>Tue, 26 May 2026 15:55:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;四大名著里，《水浒传》是最让我难受的一本。不是因为写得不好——写得太好了，以至于你没办法心安理得地接受那些&amp;quot;好汉&amp;quot;做的事。&lt;/p&gt;
 &lt;h2 id=&#34;英雄还是暴徒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#英雄还是暴徒&#34;&gt;#&lt;/a&gt; 英雄还是暴徒？&lt;/h2&gt;
 &lt;p&gt;李逵劫法场那段，原文写他&amp;quot;只拣人多处排头砍去&amp;quot;。注意，他是来救宋江的，法场上等着被砍头的是宋江。但他砍的人是谁？是来看热闹的老百姓。&lt;/p&gt;
 &lt;p&gt;一百零八将里面，真正有&amp;quot;被逼上梁山&amp;quot;那种叙事的人其实没几个。林冲算一个，武松算半个。其他人呢？有的是犯了事无处可去，有的是被&amp;quot;赚&amp;quot;上去的，有的是杀了人上山避难。&lt;/p&gt;
@@ -61,17 +68,17 @@
 &lt;p&gt;小时候看水浒，看的是&amp;quot;快意恩仇&amp;quot;。长大再看，全是灰色地带——有恩不一定有义，有仇不一定要杀，自称好汉的人不一定在做对的事。&lt;/p&gt;
 &lt;p&gt;《水浒传》最厉害的地方就是它让你不舒服。你没办法像看爽文一样看待那些杀戮，同时你也知道那些人不是凭空变坏的——&lt;strong&gt;一个不好的系统，会把好人变成坏人，然后再惩罚他们。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;不舒服就对了。&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="文学" />
-        <updated>2026-05-26T07:55:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</id>
-        <title>读《红楼梦》最深的感受——&#34;空&#34;</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
-        <content type="html">&lt;p&gt;《红楼梦》是四大名著里最难读进去的一本。没有三国那种战场厮杀，没有水浒那种快意恩仇，没有西游记那种光怪陆离。只有一大家子人，吃饭、作诗、吵架、生病、死去。但就是这种&amp;quot;没什么大事&amp;quot;，读完之后反而最放不下。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://lshxain.github.io/2026/05/26/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</guid>
+            <title>读《红楼梦》最深的感受——&#34;空&#34;</title>
+            <link>https://lshxain.github.io/2026/05/26/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</link>
+            <category>读书</category>
+            <category>随笔</category>
+            <category>文学</category>
+            <pubDate>Tue, 26 May 2026 15:54:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;《红楼梦》是四大名著里最难读进去的一本。没有三国那种战场厮杀，没有水浒那种快意恩仇，没有西游记那种光怪陆离。只有一大家子人，吃饭、作诗、吵架、生病、死去。但就是这种&amp;quot;没什么大事&amp;quot;，读完之后反而最放不下。&lt;/p&gt;
 &lt;h2 id=&#34;大观园一个会消逝的梦&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大观园一个会消逝的梦&#34;&gt;#&lt;/a&gt; 大观园：一个会消逝的梦&lt;/h2&gt;
 &lt;p&gt;大观园是整个红楼最美的部分，也是整个红楼最虚幻的部分。一群十几岁的少年少女，在园子里结诗社、赏梅花、过生日、放风筝。外面的世界跟他们没关系，里面是一个独立的小宇宙。&lt;/p&gt;
 &lt;p&gt;然后肉眼可见地，这个梦开始碎。晴雯被赶出去病死了，司棋撞墙了，黛玉焚稿断痴情。每少一个人，大观园就空一分。&lt;/p&gt;
@@ -90,17 +97,17 @@
 &lt;p&gt;《红楼梦》读完之后不会让你立刻想写点什么，它不像三国那样有太多想说的道理。它更像是一幅画，你有时候会突然想起来某个片段，然后出神很久。&lt;/p&gt;
 &lt;p&gt;比如宝玉在大雪里远远看到一个人影，走近了发现是贾政押着他去的方向。比如林黛玉说&amp;quot;我最不喜欢李义山的诗，只除了一句——留得残荷听雨声。&amp;quot;&lt;/p&gt;
 &lt;p&gt;全书没写完。八十回戛然而止。某种意义上，没写完可能才是对的——因为那种&amp;quot;空&amp;quot;的感觉，一个完整的结局反而给不了。&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="文学" />
-        <updated>2026-05-26T07:54:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</id>
-        <title>重读《三国演义》，才看懂什么叫&#34;英雄&#34;</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
-        <content type="html">&lt;p&gt;小时候看三国，最喜欢赵云。长坂坡七进七出，白马银枪，帅到不行。长大再看，发现没有人比我以前想的更复杂——曹操不只是&amp;quot;奸雄&amp;quot;，刘备不只是&amp;quot;仁义&amp;quot;，诸葛亮不只是&amp;quot;神机妙算&amp;quot;。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://lshxain.github.io/2026/05/26/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</guid>
+            <title>重读《三国演义》，才看懂什么叫&#34;英雄&#34;</title>
+            <link>https://lshxain.github.io/2026/05/26/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</link>
+            <category>读书</category>
+            <category>随笔</category>
+            <category>文学</category>
+            <pubDate>Tue, 26 May 2026 15:53:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;小时候看三国，最喜欢赵云。长坂坡七进七出，白马银枪，帅到不行。长大再看，发现没有人比我以前想的更复杂——曹操不只是&amp;quot;奸雄&amp;quot;，刘备不只是&amp;quot;仁义&amp;quot;，诸葛亮不只是&amp;quot;神机妙算&amp;quot;。&lt;/p&gt;
 &lt;h2 id=&#34;曹操那个被骂了千年的人&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#曹操那个被骂了千年的人&#34;&gt;#&lt;/a&gt; 曹操：那个被骂了千年的人&lt;/h2&gt;
 &lt;p&gt;&amp;quot;宁教我负天下人，休教天下人负我&amp;quot;——就因为这句话，曹操被钉在&amp;quot;奸雄&amp;quot;的标签上翻不了身。&lt;/p&gt;
 &lt;p&gt;但重读的时候注意到一个细节：曹操临死前嘱咐妻妾们&amp;quot;分香卖履&amp;quot;，意思是等我死了你们别闲着，做点香去卖，还能养活自己。一个说得出&amp;quot;负天下人&amp;quot;的人，临终放不下的是家里人的生计。&lt;/p&gt;
@@ -119,72 +126,7 @@
 &lt;p&gt;曹操、刘备、孙权，争了一辈子。结果呢？司马懿在后面默默等着，把所有人的果实摘了。诸葛亮六出祁山累死自己，关羽张飞死于非命，曹操到死没称帝。真正赢的那个人，从头到尾没当过主角。&lt;/p&gt;
 &lt;p&gt;读到这儿总在想——&lt;strong&gt;如果结局是注定的，那过程还有什么意义？&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;答案可能在每一页的字里行间：因为那些故事本身，就是意义。&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="文学" />
-        <updated>2026-05-26T07:53:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/</id>
-        <title>读完《明朝那些事儿》，才知道历史可以这样写</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF-%E8%AF%BB%E5%90%8E%E9%9A%8F%E7%AC%94/"/>
-        <content type="html">&lt;p&gt;大概是两年前开始读《明朝那些事儿》，断断续续，最近终于把七本全部翻完了。合上最后一页的时候，脑子里反复回响着一句话——&amp;quot;成功只有一个，按照自己的方式去度过人生。&amp;quot;&lt;/p&gt;
-&lt;h2 id=&#34;历史原来可以这么好看&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#历史原来可以这么好看&#34;&gt;#&lt;/a&gt; 历史原来可以这么好看&lt;/h2&gt;
-&lt;p&gt;上学的时候最讨厌历史课。年份、事件、意义，背了忘忘了背，像一本巨大的说明书，每一个零件都被拆开标好了用途，但你始终感觉不到那台机器是怎么运转的。&lt;/p&gt;
-&lt;p&gt;当年明月的写法完全不一样。他像是在茶馆里跟你唠嗑——朱元璋不是&amp;quot;明太祖&amp;quot;，而是一个从要饭开始、一步一步杀出来的狠人；张居正不是&amp;quot;改革家&amp;quot;，而是一个在权力场里左右周旋、最后被抄家的复杂人物。他们不再是试卷上的考点，他们有犹豫、有恐惧、有私心，也有那个瞬间忽然的勇敢。&lt;/p&gt;
-&lt;p&gt;读完才意识到，不是历史无聊，是我之前根本没真正&amp;quot;看见&amp;quot;过那些人。&lt;/p&gt;
-&lt;h2 id=&#34;最惋惜的是崇祯&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最惋惜的是崇祯&#34;&gt;#&lt;/a&gt; 最惋惜的是崇祯&lt;/h2&gt;
-&lt;p&gt;整部明史读下来，最让我不是滋味的是崇祯。他不是昏君，甚至可以说是明朝最勤政的皇帝之一。每天工作十几个小时，衣服打着补丁，批奏折批到手酸。但就是这样一个人，硬生生接了一个烂摊子——内忧外患、国库空虚、大臣互相推诿——什么都拉不回来。&lt;/p&gt;
-&lt;p&gt;最后煤山上吊，留下遗诏说&amp;quot;任贼分裂朕尸，勿伤百姓一人&amp;quot;。读到这句的时候停了好一会儿。&lt;/p&gt;
-&lt;p&gt;一个想做事的人，被时代碾过去了。这不是能力问题，是气数尽了。&lt;/p&gt;
-&lt;h2 id=&#34;王阳明的知行合一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#王阳明的知行合一&#34;&gt;#&lt;/a&gt; 王阳明的&amp;quot;知行合一&amp;quot;&lt;/h2&gt;
-&lt;p&gt;书里王阳明那一段也特别触动我。一生经历了官场失意、流放、被人追杀，最后在龙场那个荒凉的地方想通了一件事——&amp;quot;心即理&amp;quot;。所谓真理不在外面，在你自己心里。&lt;/p&gt;
-&lt;p&gt;&amp;quot;知行合一&amp;quot;这件事，以前只觉得是个哲学概念。读完他的人生经历才明白，他是被逼到绝路上，用命试出来的结论。知道的和你做的如果不一样，那不是真的知道。&lt;/p&gt;
-&lt;p&gt;这个道理放在今天也一样：看再多道理，不去活出来，等于没看。&lt;/p&gt;
-&lt;h2 id=&#34;制度的轮回&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#制度的轮回&#34;&gt;#&lt;/a&gt; 制度的轮回&lt;/h2&gt;
-&lt;p&gt;还有一个后劲很大的感受——明朝两百七十六年，兴衰起伏，你会在不同阶段看到似曾相识的剧情。开国的时候锐意进取，中期开始安逸腐败，后期想救也救不回来。换的只是人名，脚本基本没变过。&lt;/p&gt;
-&lt;p&gt;当年明月在书里反反复复写那些用生命去死谏的言官、那些明知不可为而为之的人。不是因为他们赢了——大部分都没赢——而是他们选择了一种&amp;quot;不跪着&amp;quot;的活法。&lt;/p&gt;
-&lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
-&lt;p&gt;有人问当年明月为什么用徐霞客的故事来结尾。明明写了那么多人——皇帝、名将、首辅、奸臣——最后却落在一个&amp;quot;只想去远方看风景&amp;quot;的人身上。&lt;/p&gt;
-&lt;p&gt;我想那个结尾就是他对整部明史的答案：权力会消散，财富会蒸发，但一个人按照自己的意愿走完一生，这件事没有任何人能从你手里夺走。&lt;/p&gt;
-&lt;p&gt;读完《明朝那些事儿》，最大的收获不是记住了几个年号，也不是弄清楚了多少场战役，而是开始觉得——&lt;strong&gt;人生没有标准答案。&lt;/strong&gt; 朱元璋有朱元璋的过法，徐霞客有徐霞客的过法。重要的是，那是你自己选的。&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="历史" />
-        <updated>2026-05-26T07:52:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/</id>
-        <title>读完《被讨厌的勇气》，我决定不再讨好任何人</title>
-        <link rel="alternate" href="https://lshxain.github.io/2026/05/26/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94-%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
-        <content type="html">&lt;p&gt;花了一周断断续续读完岸见一郎和古贺史健的《被讨厌的勇气》，合上书的那一刻，心里像是被什么东西撞了一下。&lt;/p&gt;
-&lt;h2 id=&#34;过去的我活在别人的期待里&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去的我活在别人的期待里&#34;&gt;#&lt;/a&gt; 过去的我，活在别人的期待里&lt;/h2&gt;
-&lt;p&gt;说起来有点不好意思，我是一个不太会说&amp;quot;不&amp;quot;的人。朋友约吃饭，明明累得只想躺平，嘴上却已经答应了。同事请帮忙，手头压着三件事没说，开口就是&amp;quot;没问题&amp;quot;。然后一个人在家里内耗：为什么刚才不直接拒绝？&lt;/p&gt;
-&lt;p&gt;弗洛伊德说，这是因为过去的经历塑造了现在的我。阿德勒说，不，是你自己选择了&amp;quot;不拒绝&amp;quot;，因为拒绝会让你害怕被讨厌。&lt;/p&gt;
-&lt;p&gt;这个观点当时读到，像一盆冷水泼在脸上。&lt;/p&gt;
-&lt;h2 id=&#34;课题分离救了我&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课题分离救了我&#34;&gt;#&lt;/a&gt; &amp;quot;课题分离&amp;quot;救了我&lt;/h2&gt;
-&lt;p&gt;整本书最受益的一个概念：&lt;strong&gt;课题分离&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;别人怎么看你，是别人的课题，不是你的。你做什么样的人，是你的课题，不是别人的。&lt;/p&gt;
-&lt;p&gt;我特意用手机备忘录记了下来，反复看了几遍。以前总想着要让所有人满意，怕辜负谁的期待。后来才意识到——别人的期待，那是他们的事。我的课题是把事情做好，把生活过好，不是活成别人心里的样子。&lt;/p&gt;
-&lt;p&gt;想通这一点之后，整个人松了很大一口气。&lt;/p&gt;
-&lt;h2 id=&#34;自由就是被别人讨厌&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自由就是被别人讨厌&#34;&gt;#&lt;/a&gt; 自由，就是被别人讨厌&lt;/h2&gt;
-&lt;p&gt;书里最核心的那句话不用多说了：&lt;strong&gt;&amp;quot;所谓的自由，就是被别人讨厌。&amp;quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从小到大，被讨厌都是一件需要躲避的事。但阿德勒告诉你，如果你想要真正的自由，被人讨厌几乎是必然的代价。因为自由意味着你不按照别人的期待去活，而不按照别人的期待去活，有些人就是会不舒服。&lt;/p&gt;
-&lt;p&gt;这听起来很残酷，但其实也很公平——你不可能一边过着别人定义的生活，一边又说自己是自由的。&lt;/p&gt;
-&lt;h2 id=&#34;活在当下不是一句鸡汤&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#活在当下不是一句鸡汤&#34;&gt;#&lt;/a&gt; 活在当下，不是一句鸡汤&lt;/h2&gt;
-&lt;p&gt;很多人说阿德勒心理学太理想化了，但我反而觉得它比弗洛伊德更务实。弗洛伊德说你现在的问题是因为过去的创伤，听起来很有道理，但这句话对改变现状毫无帮助——你能回到过去修改创伤吗？&lt;/p&gt;
-&lt;p&gt;阿德勒说，过去发生了什么不重要，你赋予它什么意义才重要。&lt;strong&gt;决定我们自身的不是过去的经历，而是我们自己赋予经历的意义。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这句话我打算贴在书桌前。&lt;/p&gt;
-&lt;h2 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h2&gt;
-&lt;p&gt;《被讨厌的勇气》不是一本读起来很舒服的书。书里的那个&amp;quot;青年&amp;quot;顶撞的话，很多时候就是我脑子里想说的。但阿德勒一一驳回来的时候，你会发现很多你以为的&amp;quot;无奈&amp;quot;其实都是借口。&lt;/p&gt;
-&lt;p&gt;读完没有脱胎换骨，但至少开始留意自己什么时候又在&amp;quot;讨好&amp;quot;了。能注意到，就是改变的开始。&lt;/p&gt;
-&lt;p&gt;这本书以后应该还会翻翻。有些道理需要过一阵子重新读一遍，因为每一遍的感受都不一样。&lt;/p&gt;
-</content>
-        <category term="读书" />
-        <category term="随笔" />
-        <category term="心理学" />
-        <updated>2026-05-26T07:47:08.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
