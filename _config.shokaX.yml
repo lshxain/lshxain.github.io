@@ -1,0 +1,119 @@
+alternate: 个人博客
+
+homeConfig:
+  gradient: false
+  fixedCover: ""
+  coverConfig:
+    enableCover: false
+    enablePreload: false
+    enableNextGradientCover: false
+
+modules:
+  debug: false
+  player: true
+  fireworks: true
+  visibilityListener: true
+  tabs: true
+  quiz: true
+  cloudflarePatch: false
+
+performance:
+  preConnect:
+    - "https://s4.zstatic.net"
+    - "https://at.alicdn.com"
+  dnsPrefetch: []
+
+darkmode: true
+auto_dark:
+  enable: true
+  start: 20
+  end: 7
+
+auto_scroll: false
+
+loader:
+  start: true
+  switch: false
+
+fireworks:
+  enable: true
+
+font:
+  enable: true
+  loadFromGoogle: false
+
+iconfont: "4415496_59g1326wajd"
+
+menu:
+  home: / || home
+
+social:
+  github: https://github.com/lshxain || github || "#191717"
+
+sidebar:
+  position: left
+  avatar: avatar.jpg
+
+widgets:
+  random_posts: true
+  recent_comments: true
+
+footer:
+  since: 2026
+  icon:
+    name: sakura rotate
+    color: "#ffc0cb"
+  count: true
+  powered: true
+  icp:
+    enable: false
+
+post:
+  count: true
+
+reward:
+  enable: false
+
+creative_commons:
+  license: by-nc-sa
+  language: deed.zh
+
+twikoo:
+  enable: false
+
+waline:
+  enable: false
+
+pagefind:
+  enable: false
+
+summary:
+  enable: false
+
+audio: []
+
+search:
+  hits:
+    per_page: 10
+
+tagcloud:
+  min: 16
+  max: 22
+  start: "#72cecf"
+  end: "#ffbac3"
+  amount: 200
+
+vendors:
+  cdns:
+    cdnjs: https://s4.zstatic.net/ajax/libs
+  js:
+  async_js:
+    copy_tex:
+      source: cdnjs
+      url: KaTeX/0.16.9/contrib/copy-tex.min.js
+      sri: "sha384-ww/583aHhxWkz5DEVn6OKtNiIaLi2iBRNZXfJRiY1Ai7tnJ9UXpEsyvOITVpTl4A"
+  css:
+    katex:
+      source: cdnjs
+      url: KaTeX/0.16.9/katex.min.css
+      sri: "sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV"
