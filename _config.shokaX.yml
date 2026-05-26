@@ -2,7 +2,7 @@ alternate: 个人博客
 
 homeConfig:
   gradient: false
-  fixedCover: ""
+  fixedCover: "/assets/bg.png"
   coverConfig:
     enableCover: true
     enablePreload: true
@@ -23,11 +23,7 @@ performance:
     - "https://at.alicdn.com"
   dnsPrefetch: []
 
-darkmode: true
-auto_dark:
-  enable: true
-  start: 20
-  end: 7
+darkmode: false
 
 auto_scroll: false
 
@@ -46,6 +42,9 @@ iconfont: "4415496_59g1326wajd"
 
 menu:
   home: / || home
+  archives: /archives/ || list-alt
+  categories: /categories/ || th
+  tags: /tags/ || tags
 
 social:
   github: https://github.com/lshxain || github || "#191717"
